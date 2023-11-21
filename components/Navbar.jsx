@@ -8,7 +8,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="text-white text-xl font-bold">
           <Link href="/">
-           Your Logo
+          Mohamed
           </Link>
         </div>
 
