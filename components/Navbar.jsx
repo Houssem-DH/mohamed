@@ -17,11 +17,11 @@ const Navbar = () => {
           <Link href="/">
           Home
           </Link>
-          <Link href="/about">
+          <Link href="#about" >
           About
           </Link>
-          <Link href="/contact">
-            Contact
+          <Link href="#web" >
+           WEB3D
           </Link>
         </div>
       </div>

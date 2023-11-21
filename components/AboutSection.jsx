@@ -1,7 +1,7 @@
 // components/AboutMe.js
 const AboutMe = () => {
     return (
-      <section className="bg-gray-100 p-8">
+      <section className="bg-gray-100 p-8" id="about">
       <div className="container mx-auto">
         <h2 className="text-4xl font-extrabold text-gray-800 mb-8">About Me</h2>
         <div className="flex flex-col md:flex-row items-center md:items-start">
