@@ -5,14 +5,14 @@ const Project = () => {
   const projects = [
     {
       name: "Table",
-      description: "Blender..................................................................",
-      imageSrc: "/project1.jpg", // Replace with your image URL
+      description: "Creating intricate 3D models through development using Blender, a versatile and powerful 3D modeling software.",
+      imageSrc: "/table.png", // Replace with your image URL
       url: "/table",
     },
     {
       name: "Sence",
-      description: "Blender..................................................................",
-      imageSrc: "/project2.jpg",
+      description: "Animating a soda cap elegantly unscrewing and revealing a cube glass, showcasing Blender's dynamic development capabilities.",
+      imageSrc: "/scene.gif",
       url: "/sence", // Replace with your image URL
     },
     // Add more projects as needed
