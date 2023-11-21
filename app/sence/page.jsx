@@ -6,7 +6,7 @@ export default function sence() {
 <div className="container mx-auto p-8 min-h-screen">
      
       <div>
-    <h1 className="text-4xl font-bold mb-4 text-gray-300">Scence</h1>
+      <h1 className="text-4xl font-extrabold text-gray-800 mb-8">Sence</h1>
     <div className="border border-indigo-500 rounded-lg overflow-hidden shadow-md bordered-div">
       <Image
         src={scene} 
