@@ -10,7 +10,7 @@ const Project = () => {
       url: "/table",
     },
     {
-      name: "Sence",
+      name: "Scence",
       description: "Animating a soda cap elegantly unscrewing and revealing a cube glass, showcasing Blender's dynamic development capabilities.",
       imageSrc: "/scene.gif",
       url: "/sence", // Replace with your image URL
